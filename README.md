@@ -3,7 +3,16 @@
 
 - 🔭 I’m currently working on **Upwork**
 
-- 👨‍💻 Some of my recent projects are [demo.com](demo.com)
+- 👨‍💻 Some of my recent projects are
+- https://dialify.ca/
+- https://litsotravels.com/
+- https://dialify.us/
+- https://rontechltd.co.uk/
+- https://locoestimatingprojectschedulingsolutions.com/
+- https://plan-it.com.pk/
+- https://dialify.co/internet/
+- https://fms-telecom.co/
+- https://tj-plattak.se/
 
 - 💬 Ask me anything about **Wordpress**
 
